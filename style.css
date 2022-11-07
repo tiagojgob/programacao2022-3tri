@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px; 
+    margin: auto;
+  }
+
+  nav {
+    width: 350px;
+    display: inline;
+    margin: 0 0 0 40px;
+    text-transform: uppercase;
+  }
+
+.titulo-principal {
+    text-align: center;
+}
+
+#banner {
+    width: 100%;
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+#logotipo {
+    width: 30%;
+}
+
+footer {
+    text-align: center;
+}
+
