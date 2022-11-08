@@ -11,6 +11,12 @@ header {
     margin: auto;
   }
 
+  .caixa{
+	position: relative;
+	width: 940px;
+	margin:  0 auto;
+}
+
   nav {
     width: 350px;
     display: inline;
